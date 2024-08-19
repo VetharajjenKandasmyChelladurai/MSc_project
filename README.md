@@ -42,5 +42,5 @@ Ensure that you have the following installed on your system:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/VetharajjenKandasamyChelladurai/MSc_project.git
+git clone https://github.com/VetharajjenKandasmyChelladurai/MSc_project.git
 cd MSc_project
